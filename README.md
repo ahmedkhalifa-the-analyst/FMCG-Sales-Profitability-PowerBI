@@ -555,12 +555,10 @@ Focus:
 * Gross Margin
 * Orders
 * Quantity
-* Customers
-* Return Rate
+* AOV
 * Monthly trend
 * Category contribution
 * Channel performance
-* Top SKUs
 
 ---
 
@@ -574,9 +572,7 @@ Focus:
 * Gross Profit
 * Gross Margin
 * Category performance
-* SKU performance
 * Volume
-* Discount impact
 
 ---
 
@@ -712,16 +708,19 @@ FMCG-Sales-Profitability-PowerBI/
 │   ├── Data_Dictionary.xlsx
 │   ├── DAX_Measures.md
 │   ├── Business_Questions.md
+    ├── Recommendations.md
+    ├── Data_Cleaning_and_Validation.md
 │   └── Data_Model.png
+  
 │
 ├── Screenshots/
-│   ├── 01_Executive_Overview.png
+│   ├── 01_Overview.png
 │   ├── 02_Sales_Profitability.png
 │   └── 03_Customers_Promotions.png
-│
-├── Data/
-│   └── README.md
-│
+    └── 04_Products&SKU.png
+    └── 05_Customers&Channels.png
+    └── 06_Operations.png
+
 └── .gitignore
 ```
 
